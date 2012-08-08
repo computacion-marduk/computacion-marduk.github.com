@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Curso de Computación]]></title>
-  <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 2013-1 | Curso de Computación]]></title>
+  <link href="http://computacion-marduk.github.com/blog/categories/2013-1/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
   <updated>2012-08-08T00:49:35-05:00</updated>
   <id>http://computacion-marduk.github.com/</id>

@@ -1,0 +1,13 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Bienvenidos"
+date: 2012-08-08 00:11
+comments: true
+categories: 2013-1
+---
+#+END_HTML
+
+¡Bienvenidos al curso! Esperemos que les guste y que aprendan muchas
+cosas. Recuerden visitar esta página regularmente para descargar las
+tareas, ver material adicional y enterarse de los avisos. ¡Suerte!
