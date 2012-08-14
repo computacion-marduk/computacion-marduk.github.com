@@ -1,0 +1,43 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Presentación"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+*** Objetivo 
+
+Introducir al alumno a la computación y en particular al uso de las
+computadoras en la actividad científica. Para esto, durante el curso
+se desarrollarán actividades sobre cálculos numéricos, visualización y
+análisis de datos.
+
+*** Evaluación
+
+Durante el curso se realizarán las siguientes actividades:
+
+- Tareas 60%
+- Exámenes 30%
+- Proyecto final 10% 
+
+*** Lugar y horario
+
+Taller de Control y Electrónica, Primer piso del edificio Tlahuizcalpan
+
+Miércoles 8 a 9 AM
+
+Viernes 7 a 9 AM
+
+*** Reglas del laboratorio
+
+1. No se permite ingresar con alimentos que no estén empacados y
+   bebidas que no estén en un envase cerrado.
+2. No se permite el consumo de alimentos.
+3. Las botellas o termos se deben colocar en el piso.
+4. No se debe desconectar ningún cable de las computadoras ni de los
+   puntos de acceso de la red.
+5. No se debe rayar ni maltratar de alguna manera el mobiliario ni el
+   equipo del laboratorio.

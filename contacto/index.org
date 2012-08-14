@@ -1,0 +1,19 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Contacto"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+* Marduk Bolaños Puchet
+** Profesor
+
+marduk en ciencias.unam.mx
+
+* Iker Loïc de Icaza Astiz
+** Ayudante
+
+icasik en ciencias.unam.mx

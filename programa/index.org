@@ -1,0 +1,96 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Programa"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+#[[./programa/intro.pdf][]]
+#[[./programa/linux.pdf][]]
+#[[./programa/programacion.pdf][]]
+
+*** Temario
+
+1. Introducción a la computación 
+   1. Breve historia de las computadoras
+   2. Ejemplos de uso de las computadoras en la ciencia
+   3. Descripción de los elementos del /hardware/
+   4. Clasificación del /software/
+   5. Sistemas Operativos
+
+2. Sistema operativo Linux 
+   1. Visita guiada
+      1. Programas pre-instalados
+      2. Configuración
+   2. Línea de comandos
+      1. Comandos básicos 
+      2. Estructura del sistema de archivos
+      3. Archivos ocultos
+      4. Uso del comando sudo
+      5. Comandos avanzados
+
+3. Introducción a la programación 
+   1. ¿Qué es programar?
+   2. Lenguajes de programación
+      1. Paradigmas de programación
+      2. Compiladores e intérpretes
+      3. Ejemplos de lenguajes
+   3. Diseño de algoritmos
+   4. Elementos básicos de un programa
+   5. Ejemplos en clase
+   6. Recursividad
+
+4. Programación con el lenguaje Python
+   1. Terminal interactiva ipython
+   2. Sintaxis básica
+   3. Tipos de datos
+   4. Estructuras de control
+   5. Funciones
+   6. Editor de texto gedit
+   7. Un programa sencillo
+
+5. Gráficos en 2D y 3D con Gnuplot
+   1. Graficar conjuntos de datos
+   2. Graficar funciones
+   3. Exportar gráficos en distintos formatos
+
+6. Cálculo simbólico con MAXIMA
+   1. Solución de sistemas de ecuaciones
+   2. Derivadas e integrales
+   3. Operaciones con matrices
+
+7. Análisis de datos con Octave
+   1. Operaciones con vectores y matrices
+   2. Aritmética de punto flotante
+   3. Números aleatorios
+   4. Leer y escribir archivos
+   5. Ejemplos
+      1. Funciones matemáticas sobre las columnas de datos
+      2. Regresión lineal
+      3. Propagación de incertidumbres
+
+8. Escritura de documentos con LATEX
+   1. Estructura básica de un documento
+   2. Insertar figuras
+   3. Tablas
+   4. Presentaciones con Beamer
+
+9. Dibujos con Inkscape e ipe
+
+10. Animaciones con Visual Python
+    1. Ejemplos
+
+*** Referencias
+
+1. Zelle, J., Python Programming: An Introduction to Computer Science,
+   EEUU, Franklin, Beedle and Associates, 2003, 517 p.
+
+2. Langtangen, H. P., Python Scripting for Computational Science,
+   Springer Verlag, 2008, 758 p. (Acceso gratuito via BiDi)
+
+3. Grätzer, G., More math into LaTeX, Springer, 2007, 619 p. (Biblioteca ICN, IM, IIMAS)
+
+4. Sección de Recursos en la página del curso

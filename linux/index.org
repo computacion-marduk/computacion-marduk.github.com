@@ -1,0 +1,73 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Linux"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+En el curso utilizaremos Ubuntu 11.10 porque es el sistema operativo
+instalado en las computadoras del laboratorio.
+
+* Instalación
+
+Existen al menos cuatro posibilidades para utilizar Ubuntu en tu
+computadora:
+
+*** Si no quieres o no tienes permitido crear una partición en el disco duro de tu computadora
+
++ [[http://www.ubuntu.com/download/help/install-ubuntu-with-windows][Instalar con Wubi en Windows]] (en inglés)
++ [[http://www.wikihow.com/Install-Ubuntu-on-VirtualBox][Instalar en una máquina virtual de VirtualBox]] (en inglés)
+
+*** Si no usas una computadora fija o por alguna razón quieres una instalación portátil
+
++ Instalar en un dipositivo USB
+
+*** Si quieres una instalación estándar creando particiones
+
+*Nota:* Antes de proceder con este método respalda tus archivos en un
+ disco externo.
+
++ [[http://doc.ubuntu-es.org/11.10:Instalaci%C3%B3n_est%C3%A1ndar][Instalar junto con otro sistema operativo]] (en español)
+
+* Ayuda
+
++ [[https://help.ubuntu.com/11.10/ubuntu-help/index.html][Documentación oficial de Ubuntu 11.10]] (en inglés)
+
++ [[https://help.ubuntu.com/community][Documentación creada por usuarios de Ubuntu]] (en inglés)
+
++ [[http://askubuntu.com/][askubuntu]] /Donde los principiantes se convierten en gurús/
+
+* Tutoriales
+
++ [[http://www.linuxjournal.com/][Linux Journal]]
+
++ [[http://www.webupd8.org/][WEB UPD8]]
+
++ [[http://lifehacker.com/][lifehacker]]
+
+* Programas
+
+[[http://alternativeto.net][alternative.to]] /Busca alternativas de tus programas de Windows para Linux/
+
++ [[http://audacity.sourceforge.net/][Audacity]] /Poderoso editor de sonido/
+
++ [[http://ankisrs.net/][Anki]] /Estudia. Recuerda. Aprende/
+
++ [[http://projects.gnome.org/cheese/][Cheese]] /Sonríe para la foto/
+
++ [[http://freeplane.sourceforge.net/wiki/index.php/Main_Page][Freeplane]] /Mapas mentales y mucho más/
+
++ [[http://handbrake.fr][Handbrake]] /Exporta tus videos/
+
++ [[http://www.keepassx.org/][KeePass X]] /Guarda todas tus contraseñas de forma segura/
+
++ [[http://www.rainlendar.net][Rainlendar]] /Calendario con alarma/
+
++ [[http://www.truecrypt.org/][TrueCrypt]] /Caja fuerte para tus archivos secretos/
+
++ [[http://ubuntu-tweak.com/][Ubuntu Tweak]] /Más opciones para configurar Ubuntu a tu gusto/
+
++ [[http://www.winehq.org][Wine]] /Instala programas de Windows en Linux!/

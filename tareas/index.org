@@ -1,0 +1,11 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Tareas"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+Próximamente...

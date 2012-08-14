@@ -1,0 +1,62 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Física y matemáticas"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+[[https://www.desmos.com/calculator][desmos - Calculadora gráfica]]
+
+[[http://www.wired.com/wiredscience/dotphysics/][Dot Physics Blog]]
+
+[[http://math.ucr.edu/home/baez/][John Baez]]
+
+* Artículos
+Para tener acceso al texto completo obtén una cuenta en [[http://dgb.unam.mx/index.php/solicita-tu-cuenta][BiDi UNAM]]
+
++ [[http://arXiV.org][arXiV]] (acceso libre)
+
++ [[http://ajp.aapt.org/][American Journal of Physics]]
+
++ [[http://cise.aip.org/][Computing in Science & Engineering]]
+
++ [[http://www.scientificamerican.com/][Scientific American]]
+
++ [[http://plus.maths.org/content/][+plus magazine]] (acceso libre)
+
+* Visualizaciones y demostraciones
+
++ [[http://sciencedemonstrations.fas.harvard.edu/icb/icb.do][Harvard Natural Sciences Lecture Demonstrations]]
+
++ [[http://www.falstad.com/mathphysics.html][Paul Falstad]]
+
++ [[http://www.dimensions-math.org/Dim_ES.htm][Dimensions - Un paseo a través de las matemáticas]]
+
++ [[http://www.bugman123.com/index.html][Paul Nylander]]
+
++ [[http://paulbourke.net/][Paul Bourke]]
+
+* Notas de cursos y libros gratuitos
+
++ [[http://www.staff.science.uu.nl/~hooft101/theorist.html][Gerard 't Hooft (Premio Nobel de Física 1999)]]
+
++ [[http://www.freescience.info/index.php][FreeScience]] /Una vasta colección de notas de cursos y libros gratuitos/
+
++ [[http://www.pma.caltech.edu/Courses/ph136/yr2011/][Applications of Classical Physics (Thorne, Blandford)]]
+
+* Cursos en línea
+
++ [[http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/][Classical Mechanics, Walter Lewin]]
+
++ [[http://ocw.mit.edu/courses/physics/8-02-electricity-and-magnetism-spring-2002/][Electricity and Magnetism, Walter Lewin]]
+
++ [[http://www.khanacademy.org/][Khan Academy]]
+
++ [[https://www.coursera.org/][Coursera]]
+
++ [[http://www.udacity.com/][Udacity]]
+
++ [[https://www.edx.org/][edX]]
