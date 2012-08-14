@@ -9,7 +9,7 @@ footer: true
 ---
 #+END_HTML
 
-[[./recursos/fismat.html][Física y matemáticas]]
+[[./fismat.html][Física y matemáticas]]
 
 #+begin_html
 <div id="table-of-contents">
