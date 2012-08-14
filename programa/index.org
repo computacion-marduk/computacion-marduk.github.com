@@ -64,6 +64,7 @@ footer: true
       1. Solución de ecuaciones diferenciales
       2. Introducción a los métodos Monte Carlo
       3. Transformada de Fourier
+   6. Animaciones
 
 8. Escritura de documentos con LaTeX
    1. Estructura básica de un documento
