@@ -26,11 +26,7 @@ footer: true
       1. Programas pre-instalados
       2. Configuración
    2. Línea de comandos
-      1. Comandos básicos 
-      2. Estructura del sistema de archivos
-      3. Archivos ocultos
-      4. Uso del comando sudo
-      5. Comandos avanzados
+      1. Comandos básicos
 
 3. Introducción a la programación 
    1. ¿Qué es programar?
@@ -52,36 +48,36 @@ footer: true
    6. Editor de texto gedit
    7. Un programa sencillo
 
-5. Gráficos en 2D y 3D con Gnuplot
-   1. Graficar conjuntos de datos
-   2. Graficar funciones
-   3. Exportar gráficos en distintos formatos
+5. Animaciones con Visual Python
 
 6. Cálculo simbólico con MAXIMA
    1. Solución de sistemas de ecuaciones
    2. Derivadas e integrales
    3. Operaciones con matrices
 
-7. Análisis de datos con Octave
+7. Cálculo numérico con Octave
    1. Operaciones con vectores y matrices
    2. Aritmética de punto flotante
    3. Números aleatorios
    4. Leer y escribir archivos
-   5. Ejemplos
-      1. Funciones matemáticas sobre las columnas de datos
-      2. Regresión lineal
-      3. Propagación de incertidumbres
+   5. Aplicaciones
+      1. Solución de ecuaciones diferenciales
+      2. Introducción a los métodos Monte Carlo
+      3. Transformada de Fourier
 
-8. Escritura de documentos con LATEX
+8. Escritura de documentos con LaTeX
    1. Estructura básica de un documento
-   2. Insertar figuras
-   3. Tablas
-   4. Presentaciones con Beamer
+   2. Dibujos con Inkscape e ipe
+   3. Insertar gráficas
+   4. Tablas
+   5. Presentaciones con Beamer
 
-9. Dibujos con Inkscape e ipe
+9. Análisis de datos experimentales con Qtiplot
+   1. Funciones matemáticas sobre las columnas de datos
+   2. Regresión lineal
+   3. Propagación de incertidumbres
 
-10. Animaciones con Visual Python
-    1. Ejemplos
+10. Análisis de videos con Tracker
 
 *** Referencias
 
