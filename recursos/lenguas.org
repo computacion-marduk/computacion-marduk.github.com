@@ -1,0 +1,18 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Recursos"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+[[http://www.bbc.co.uk/languages/][BBC Languages]] Aprende inglés, francés, alemán, etc.
+
+
+* Inglés
+
+[[http://www.youtube.com/playlist?list%3DPL2905981ECC3FD62A&feature%3Dplcp][YouTube - Aprender inglés gratis]]
+
+[[http://es.wikibooks.org/wiki/Ingl%25C3%25A9s][Wikilibros - Inglés]]

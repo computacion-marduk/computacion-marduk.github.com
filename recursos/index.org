@@ -11,6 +11,8 @@ footer: true
 
 [[./fismat.html][Física y matemáticas]]
 
+[[./lenguas.html][Lenguas extranjeras]]
+
 #+begin_html
 <div id="table-of-contents">
 <div id="text-table-of-contents">

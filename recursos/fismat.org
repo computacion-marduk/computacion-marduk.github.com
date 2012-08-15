@@ -9,6 +9,7 @@ footer: true
 #+END_HTML
 
 [[https://www.desmos.com/calculator][desmos - Calculadora gráfica]]
+[[http://www.wolframalpha.com/][Wolfram|Alpha]] Calculadora, enciclopedia, y mucho más 
 
 [[http://www.wired.com/wiredscience/dotphysics/][Dot Physics Blog]]
 

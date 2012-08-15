@@ -8,13 +8,12 @@ footer: true
 ---
 #+END_HTML
 
-#[[./programa/intro.pdf][]]
 #[[./programa/linux.pdf][]]
 #[[./programa/programacion.pdf][]]
 
 *** Temario
 
-1. Introducción a la computación 
+1. Introducción a la computación [[./intro.pdf][PDF]]
    1. Breve historia de las computadoras
    2. Ejemplos de uso de las computadoras en la ciencia
    3. Descripción de los elementos del /hardware/

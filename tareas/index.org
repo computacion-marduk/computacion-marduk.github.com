@@ -8,4 +8,4 @@ footer: true
 ---
 #+END_HTML
 
-Próximamente...
+[[./tarea1.pdf][Tarea 1]] Para el 24 de agosto de 2012 en clase
