@@ -10,9 +10,18 @@ footer: true
 
 [[http://www.bbc.co.uk/languages/][BBC Languages]] Aprende inglés, francés, alemán, etc.
 
+[[http://duolingo.com][Duolingo]]
 
 * Inglés
 
-[[http://www.youtube.com/playlist?list%3DPL2905981ECC3FD62A&feature%3Dplcp][YouTube - Aprender inglés gratis]]
+[[http://learningenglish.voanews.com/][Voice of America - Learning English]]
 
 [[http://es.wikibooks.org/wiki/Ingl%25C3%25A9s][Wikilibros - Inglés]]
+
+[[http://www.youtube.com/playlist?list%3DPL2905981ECC3FD62A&feature%3Dplcp][YouTube - Aprender inglés gratis]]
+
+[[http://www.inglestotal.com/][Inglés total]]
+
+[[http://esl-aloud.com/][ESL Aloud]]
+
+[[http://www.ivoox.com/podcast-curso-ingles-34-lecciones_sq_f16746_2.html?o%3Dall][Gramática popular - Inglés correcto en 34 lecciones]]

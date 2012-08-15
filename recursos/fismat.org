@@ -28,6 +28,8 @@ Para tener acceso al texto completo obtén una cuenta en [[http://dgb.unam.mx/in
 
 + [[http://plus.maths.org/content/][+plus magazine]] (acceso libre)
 
++ [[http://www.symmetrymagazine.org/cms/][Symmetry]] (acceso libre)
+
 * Visualizaciones y demostraciones
 
 + [[http://sciencedemonstrations.fas.harvard.edu/icb/icb.do][Harvard Natural Sciences Lecture Demonstrations]]
@@ -54,10 +56,12 @@ Para tener acceso al texto completo obtén una cuenta en [[http://dgb.unam.mx/in
 
 + [[http://ocw.mit.edu/courses/physics/8-02-electricity-and-magnetism-spring-2002/][Electricity and Magnetism, Walter Lewin]]
 
-+ [[http://www.khanacademy.org/][Khan Academy]]
++ [[http://www.fnal.gov/pub/everyone/][Fermilab - Physics for Everyone]]
 
-+ [[https://www.coursera.org/][Coursera]]
+* Videos
 
-+ [[http://www.udacity.com/][Udacity]]
++ [[http://www.ted.com/talks/tags/physics][TED Physics]]
 
-+ [[https://www.edx.org/][edX]]
++ [[http://www.youtube.com/user/minutephysics][Minute Physics]]
+
+

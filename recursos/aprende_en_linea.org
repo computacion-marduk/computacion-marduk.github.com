@@ -1,0 +1,35 @@
+#+BEGIN_HTML
+---
+layout: page
+title: "Aprende en línea"
+comments: true
+sharing: false
+footer: true
+---
+#+END_HTML
+
+* Cursos
+
++ [[http://www.khanacademy.org/][Khan Academy]]
+
++ [[http://www.class-central.com/][Class Central]]
+
++ [[http://ocw.mit.edu/index.htm][MIT Open Courseware]]
+
++ [[http://www.openculture.com/freeonlinecourses][Open Culture]]
+
+* Videos
+
++ [[http://www.youtube.com/user/1veritasium][Veritasium]]
+
++ [[http://www.youtube.com/user/crashcourse][Crash Course!]]
+
++ [[http://www.youtube.com/user/scishow][SciShow]]
+
++ [[http://www.youtube.com/user/CogSai][CogSai]]
+
++ [[http://www.youtube.com/user/destinws2][Smarter Every Day]]
+
++ [[http://www.youtube.com/user/CGPGrey][Grey Explains Things]]
+
++ [[http://www.ted.com/][TED - Ideas worth spreading]]

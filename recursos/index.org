@@ -13,27 +13,39 @@ footer: true
 
 [[./lenguas.html][Lenguas extranjeras]]
 
+[[./aprende_en_linea.html][Aprende en línea]]
+
 #+begin_html
+<!--
 <div id="table-of-contents">
 <div id="text-table-of-contents">
 <ul>
-<!--
-<li><a href="#sec-1"style="text-decoration:none" > Python</a></li>
-<li><a href="#sec-2"style="text-decoration:none" > Gnuplot</a></li>
-<li><a href="#sec-3"style="text-decoration:none" > Octave</a></li>
-<li><a href="#sec-4"style="text-decoration:none" > Maxima</a></li>
-<li><a href="#sec-5"style="text-decoration:none" > LaTeX</a></li>
 <li><a href="#sec-6"style="text-decoration:none" > Línea de comandos</a></li>
-<li><a href="#sec-7"style="text-decoration:none" > Inkscape e ipe</a></li>
+<li><a href="#sec-1"style="text-decoration:none" > Python</a></li>
 <li><a href="#sec-8"style="text-decoration:none" > VPython</a></li>
--->
+<li><a href="#sec-2"style="text-decoration:none" > Gnuplot</a></li>
+<li><a href="#sec-4"style="text-decoration:none" > Maxima</a></li>
+<li><a href="#sec-3"style="text-decoration:none" > Octave</a></li>
+<li><a href="#sec-5"style="text-decoration:none" > LaTeX</a></li>
+<li><a href="#sec-7"style="text-decoration:none" > Inkscape e ipe</a></li>
+<li><a href="#sec-8"style="text-decoration:none" > Qtiplot</a></li>
+<li><a href="#sec-9"style="text-decoration:none" > Tracker</a></li>
 </ul>
 </div>
 </div>
+-->
 #+end_html
 
 * COMMENT
-*** Python
+** Línea de comandos
+#+begin_comment 
+Hojas de ayuda
+Libro de Schotts
+commandlinefu
+http://www.ee.surrey.ac.uk/Teaching/Unix/
+http://linuxcommand.org/
+#+end_comment
+** Python
 #+begin_comment
 Hoja de ayuda
 Inmersion
@@ -43,25 +55,31 @@ Libros Langtangen
 Notas de David
 [[http://python.org.ar/pyar/AprendiendoPython|Aprendiendo Python]]
 [[http://code.google.com/edu/languages/google-python-class/|Google's Python class]]
+[[http://mundogeek.net/traducciones/guia-estilo-python.htm][Guía de estilo de Python]]
 #+end_comment
-*** Gnuplot
+** VPython
+#+begin_comment
+Manual
+Chabay, Sherwood
+#+end_comment
+** Gnuplot
 #+begin_comment
 Manual
 Hoja de ayuda
 gnuplotting
 not so faq
 #+end_comment
-*** Octave
-#+begin_comment
-Manual
-Notas de Guillem Borrell
-#+end_comment
-*** Maxima
+** Maxima
 #+begin_comment
 Manual
 Notas de Woolett
 #+end_comment
-*** LaTeX
+** Octave
+#+begin_comment
+Manual
+Notas de Guillem Borrell
+#+end_comment
+** LaTeX
 #+begin_comment
 Wikibooks
 Libro de borbon
@@ -72,21 +90,10 @@ TeX stack exchange
 Crear sus propios paquetes
 texdoc
 #+end_comment
-*** Línea de comandos
-#+begin_comment 
-Hojas de ayuda
-Libro de Schotts
-commandlinefu
-http://www.ee.surrey.ac.uk/Teaching/Unix/
-http://linuxcommand.org/
-#+end_comment
-*** Inkscape
+** Inkscape
 Libro del otro día
 
-*** VPython
-#+begin_comment
+** Qtiplot
 Manual
-#+end_comment
-
-    
-    
+** Tracker
+Manual
