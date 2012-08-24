@@ -9,6 +9,7 @@ footer: true
 #+END_HTML
 
 [[https://www.desmos.com/calculator][desmos - Calculadora gráfica]]
+
 [[http://www.wolframalpha.com/][Wolfram|Alpha]] Calculadora, enciclopedia, y mucho más 
 
 [[http://www.wired.com/wiredscience/dotphysics/][Dot Physics Blog]]
@@ -57,6 +58,8 @@ Para tener acceso al texto completo obtén una cuenta en [[http://dgb.unam.mx/in
 + [[http://ocw.mit.edu/courses/physics/8-02-electricity-and-magnetism-spring-2002/][Electricity and Magnetism, Walter Lewin]]
 
 + [[http://www.fnal.gov/pub/everyone/][Fermilab - Physics for Everyone]]
+
++ [[http://www.learner.org/courses/physics/index.html][Physics for the 21st century]]
 
 * Videos
 

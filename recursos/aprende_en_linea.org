@@ -33,3 +33,5 @@ footer: true
 + [[http://www.youtube.com/user/CGPGrey][Grey Explains Things]]
 
 + [[http://www.ted.com/][TED - Ideas worth spreading]]
+
++ [[http://ed.ted.com/][TED Ed - Lessons worth sharing]]
