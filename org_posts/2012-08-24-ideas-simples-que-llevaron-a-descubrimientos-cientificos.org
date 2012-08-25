@@ -9,3 +9,7 @@ categories:
 #+END_HTML
 
 {% youtube F8UFGu2M2gM %}
+
+Para ver subtítulos en español llevar el cursor al borde inferior del
+video, hacer click en el ícono a la izquierda del engrane y
+seleccionar Translate Captions.
