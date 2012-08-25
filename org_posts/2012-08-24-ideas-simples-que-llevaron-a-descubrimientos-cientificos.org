@@ -1,0 +1,11 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Ideas simples que llevaron a descubrimientos científicos"
+date: 2012-08-24 22:15
+comments: true
+categories: 
+---
+#+END_HTML
+
+{% youtube F8UFGu2M2gM %}

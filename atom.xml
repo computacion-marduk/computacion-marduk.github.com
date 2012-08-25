@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-08-23T22:40:56-05:00</updated>
+  <updated>2012-08-24T22:39:21-05:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ideas simples que llevaron a descubrimientos científicos]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/08/24/ideas-simples-que-llevaron-a-descubrimientos-cientificos/"/>
+    <updated>2012-08-24T22:15:00-05:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/08/24/ideas-simples-que-llevaron-a-descubrimientos-cientificos</id>
+    <content type="html"><![CDATA[<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/F8UFGu2M2gM " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Feria de útiles escolares y cómputo UNAM 2012]]></title>
