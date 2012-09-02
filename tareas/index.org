@@ -9,3 +9,5 @@ footer: true
 #+END_HTML
 
 [[./tarea1.pdf][Tarea 1]] Para el 24 de agosto de 2012 en clase
+
+[[file:tarea2.pdf][Tarea 2]] Para el 14 de septiembre de 2012 en clase
