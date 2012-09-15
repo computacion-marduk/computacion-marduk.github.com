@@ -14,6 +14,10 @@ footer: true
 
 [[./aprende_en_linea.html][Aprende en línea]]
 
+* Programación
+
+[[http://javablock.sourceforge.net][JavaBlock]] Construye y ejecuta diagramas de flujo
+
 * Inkscape
 
 [[http://joaclintistgud.wordpress.com/2011/04/14/inkscape-logo-a-logo-2%25C2%25AA-edicion/][http://i230.photobucket.com/albums/ee124/joaclint/logo_a_logo_pdf.png]]
@@ -31,6 +35,7 @@ http://linuxcommand.org/
 #+end_comment
 ** Python
 #+begin_comment
+[[http://www.openbookproject.net/thinkcs/][How to Think Like a Computer Scientist: Learning with Python]]
 Hoja de ayuda
 Inmersion
 Curso Jaume I

@@ -81,12 +81,14 @@ footer: true
 
 *** Referencias
 
-1. Zelle, J., Python Programming: An Introduction to Computer Science,
-   EEUU, Franklin, Beedle and Associates, 2003, 517 p.
+1. Farrell, Joyce, Introducción a la programación: lógica y diseño,
+   Thomson Learning, 2001. (Biblioteca Central) 
 
-2. Langtangen, H. P., Python Scripting for Computational Science,
-   Springer Verlag, 2008, 758 p. (Acceso gratuito via BiDi)
+2. Langtangen, H. P., A Primer on Scientific Programming with Python,
+   Springer Verlag, 2009. (Acceso gratuito via BiDi)
 
-3. Grätzer, G., More math into LaTeX, Springer, 2007, 619 p. (Biblioteca ICN, IM, IIMAS)
+3. Grätzer, G., First steps in LaTeX, Springer, 1999. (Biblioteca FCiencias)
 
-4. Sección de Recursos en la página del curso
+4. Grätzer, G., Math into LaTeX, Springer, 2000. (Biblioteca FCiencias)
+
+5. Sección de Recursos en la página del curso
