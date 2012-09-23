@@ -24,6 +24,16 @@ footer: true
 
 [[http://screencasters.heathenx.org/][Screencasters - Inkscape tutorials for the novice artist]]
 
+* Python
+
+[[http://www.arrakis.es/~rapto/AprendaPython.html][Python instantáneo]]
+[[http://www.swaroopch.org/notes/Python_es-ar:Tabla_de_Contenidos][Un byte de Python]]
+[[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf][Aprenda a pensar como un programador (con Python)]]
+[[http://www.uji.es/bin/publ/edicions/ippython.pdf][Introducción a la programación con Python]]
+[[http://www.gulic.org/almacen/diveintopython-5.4-es/][Inmersión en Python]]
+[[http://mundogeek.net/traducciones/guia-estilo-python.htm][Guía de estilo de Python]]
+[[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
+
 * COMMENT
 ** Línea de comandos
 #+begin_comment 
@@ -32,19 +42,6 @@ Libro de Schotts
 commandlinefu
 http://www.ee.surrey.ac.uk/Teaching/Unix/
 http://linuxcommand.org/
-#+end_comment
-** Python
-#+begin_comment
-[[http://www.openbookproject.net/thinkcs/][How to Think Like a Computer Scientist: Learning with Python]]
-Hoja de ayuda
-Inmersion
-Curso Jaume I
-Google Python Course
-Libros Langtangen
-Notas de David
-[[http://python.org.ar/pyar/AprendiendoPython|Aprendiendo Python]]
-[[http://code.google.com/edu/languages/google-python-class/|Google's Python class]]
-[[http://mundogeek.net/traducciones/guia-estilo-python.htm][Guía de estilo de Python]]
 #+end_comment
 ** VPython
 #+begin_comment
@@ -79,9 +76,6 @@ TeX stack exchange
 Crear sus propios paquetes
 texdoc
 #+end_comment
-** Inkscape
-Libro del otro día
-
 ** Qtiplot
 Manual
 ** Tracker
