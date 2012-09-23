@@ -14,24 +14,30 @@ footer: true
 
 [[./aprende_en_linea.html][Aprende en línea]]
 
-* Programación
-
-[[http://javablock.sourceforge.net][JavaBlock]] Construye y ejecuta diagramas de flujo
-
 * Inkscape
 
 [[http://joaclintistgud.wordpress.com/2011/04/14/inkscape-logo-a-logo-2%25C2%25AA-edicion/][http://i230.photobucket.com/albums/ee124/joaclint/logo_a_logo_pdf.png]]
 
 [[http://screencasters.heathenx.org/][Screencasters - Inkscape tutorials for the novice artist]]
 
+* Programación
+
+[[http://javablock.sourceforge.net][JavaBlock]] Construye y ejecuta diagramas de flujo
+
 * Python
 
 [[http://www.arrakis.es/~rapto/AprendaPython.html][Python instantáneo]]
+
 [[http://www.swaroopch.org/notes/Python_es-ar:Tabla_de_Contenidos][Un byte de Python]]
+
 [[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf][Aprenda a pensar como un programador (con Python)]]
+
 [[http://www.uji.es/bin/publ/edicions/ippython.pdf][Introducción a la programación con Python]]
+
 [[http://www.gulic.org/almacen/diveintopython-5.4-es/][Inmersión en Python]]
+
 [[http://mundogeek.net/traducciones/guia-estilo-python.htm][Guía de estilo de Python]]
+
 [[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
 
 * COMMENT
