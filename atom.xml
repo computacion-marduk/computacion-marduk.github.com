@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-09-27T16:06:20-05:00</updated>
+  <updated>2012-09-27T16:37:38-05:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -20,6 +20,11 @@
     <id>http://computacion-marduk.github.com/blog/2012/09/27/femto-fotografia</id>
     <content type="html"><![CDATA[<p>
 <iframe width="" height="" src="http://www.youtube.com/embed/SoHeWgLvlXI " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+Nota: La resolución es de picosegundos pero el flash es un láser de femtosegundos.
 </p>
 
 

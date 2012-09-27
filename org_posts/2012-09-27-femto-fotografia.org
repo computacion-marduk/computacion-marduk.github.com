@@ -10,6 +10,8 @@ categories:
 
 {% youtube SoHeWgLvlXI %}
 
+Nota: La resolución es de picosegundos pero el flash es un láser de femtosegundos.
+
 Para ver subtítulos en español llevar el cursor al borde inferior del
 video, hacer click en el ícono a la izquierda del engrane y
 seleccionar Translate Captions.
