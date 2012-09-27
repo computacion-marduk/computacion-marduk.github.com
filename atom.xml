@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-09-23T18:24:46-05:00</updated>
+  <updated>2012-09-27T16:06:20-05:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Femto-fotografía]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/09/27/femto-fotografia/"/>
+    <updated>2012-09-27T16:05:00-05:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/09/27/femto-fotografia</id>
+    <content type="html"><![CDATA[<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/SoHeWgLvlXI " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+Para ver subtítulos en español llevar el cursor al borde inferior del
+video, hacer click en el ícono a la izquierda del engrane y
+seleccionar Translate Captions.
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ideas simples que llevaron a descubrimientos científicos]]></title>
