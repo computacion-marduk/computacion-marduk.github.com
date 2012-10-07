@@ -1,0 +1,15 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Reacción de Belousov-Zhabotinsky"
+date: 2012-10-07 10:51
+comments: true
+categories: 
+---
+#+END_HTML
+
+{% youtube 3JAqrRnKFHo %}
+
+Es un ejemplo de una reacción química oscilante y de un proceso
+termodinámico fuera de equilibrio. Téngalo en mente cuando lleven sus
+cursos de Fenómenos Colectivos y Termodinámica.

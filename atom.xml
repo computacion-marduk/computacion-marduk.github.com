@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-09-27T16:51:33-05:00</updated>
+  <updated>2012-10-07T10:55:09-05:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reacción de Belousov-Zhabotinsky]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/10/07/reaccion-de-belousov-zhabotinsky/"/>
+    <updated>2012-10-07T10:51:00-05:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/10/07/reaccion-de-belousov-zhabotinsky</id>
+    <content type="html"><![CDATA[<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/3JAqrRnKFHo " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+Es un ejemplo de una reacción química oscilante y de un proceso
+termodinámico fuera de equilibrio. Téngalo en mente cuando lleven sus
+cursos de Fenómenos Colectivos y Termodinámica.
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Femto-fotografía]]></title>

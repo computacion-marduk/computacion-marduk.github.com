@@ -13,3 +13,5 @@ footer: true
 [[file:tarea2.pdf][Tarea 2]] Para el 14 de septiembre de 2012 en clase
 
 [[file:tarea3.pdf][Tarea 3]] Para el 7 de octubre de 2012 por correo electrónico a Iker
+
+[[file:tarea4.tar.gz][Tarea 4]] Para el 14 de octubre de 2012 por correo electrónico a Iker

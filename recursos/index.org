@@ -36,6 +36,8 @@ footer: true
 
 [[http://www.gulic.org/almacen/diveintopython-5.4-es/][Inmersión en Python]]
 
+[[http://www.python-course.eu/][Python Course]]
+
 [[http://mundogeek.net/traducciones/guia-estilo-python.htm][Guía de estilo de Python]]
 
 [[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
