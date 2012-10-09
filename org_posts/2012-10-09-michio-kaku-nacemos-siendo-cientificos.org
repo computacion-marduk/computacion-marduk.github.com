@@ -1,0 +1,11 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Michio Kaku: Nacemos siendo científicos"
+date: 2012-10-09 17:12
+comments: true
+categories: 
+---
+#+END_HTML
+
+{% youtube LelNYqVEOZQ %}

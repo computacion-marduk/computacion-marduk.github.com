@@ -8,9 +8,6 @@ footer: true
 ---
 #+END_HTML
 
-#[[./programa/linux.pdf][]]
-#[[./programa/programacion.pdf][]]
-
 *** Temario
 
 1. Introducción a la computación [[./intro.pdf][PDF]]
