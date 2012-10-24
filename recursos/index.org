@@ -42,6 +42,14 @@ footer: true
 
 [[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
 
+* Octave
+
+[[http://www.gnu.org/software/octave/octave.pdf][Octave Manual]]
+
+[[file:octave_card_es.pdf][Guía rápida de Octave]]
+
+[[file:octave_python.pdf][Equivalencia de comandos de Octave y Python]]
+
 * COMMENT
 ** Línea de comandos
 #+begin_comment 
