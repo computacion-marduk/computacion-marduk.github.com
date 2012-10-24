@@ -24,7 +24,7 @@ footer: true
 
 [[http://javablock.sourceforge.net][JavaBlock]] Construye y ejecuta diagramas de flujo
 
-* Python
+* Python ([[https://github.com/computacion-marduk/computacion-marduk.github.com/tree/master/recursos/Codigos/Python][Programas de clase]])
 
 [[http://www.arrakis.es/~rapto/AprendaPython.html][Python instantáneo]]
 
@@ -42,7 +42,7 @@ footer: true
 
 [[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
 
-* Octave
+* Octave ([[https://github.com/computacion-marduk/computacion-marduk.github.com/tree/master/recursos/Codigos/Octave][Programas de clase]])
 
 [[http://www.gnu.org/software/octave/octave.pdf][Octave Manual]]
 
