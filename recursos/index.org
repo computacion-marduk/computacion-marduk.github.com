@@ -44,6 +44,8 @@ footer: true
 
 * Octave ([[https://github.com/computacion-marduk/computacion-marduk.github.com/tree/master/recursos/Codigos/Octave][Programas de clase]])
 
+[[http://iimyo.forja.rediris.es/][Matemáticas en Ingeniería con Matlab y Octave]]
+
 [[http://www.gnu.org/software/octave/octave.pdf][Octave Manual]]
 
 [[file:octave_card_es.pdf][Guía rápida de Octave]]
