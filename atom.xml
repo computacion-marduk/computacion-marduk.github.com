@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-10-25T11:24:44-05:00</updated>
+  <updated>2012-10-28T10:43:56-06:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cambiando el paradigma de la educación]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/10/28/cambiando-el-paradigma-de-la-educacion/"/>
+    <updated>2012-10-28T10:43:00-06:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/10/28/cambiando-el-paradigma-de-la-educacion</id>
+    <content type="html"><![CDATA[<p>
+ <iframe width="" height="" src="http://www.youtube.com/embed/AZ3JmuaUrxs " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Michio Kaku: Nacemos siendo científicos]]></title>

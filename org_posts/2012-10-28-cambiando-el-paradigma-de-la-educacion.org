@@ -1,0 +1,12 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Cambiando el paradigma de la educación"
+date: 2012-10-28 10:43
+comments: true
+categories: 
+---
+#+END_HTML
+
+
+ {% youtube AZ3JmuaUrxs %}
