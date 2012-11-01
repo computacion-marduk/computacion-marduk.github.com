@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-10-28T10:43:56-06:00</updated>
+  <updated>2012-11-01T12:36:39-06:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dispositivos móviles y ergonomía]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/11/01/dispositivos-moviles-y-ergonomia/"/>
+    <updated>2012-11-01T12:01:00-06:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/11/01/dispositivos-moviles-y-ergonomia</id>
+    <content type="html"><![CDATA[<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/nb9pqqHbPy4 " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/<sub>DEmtz7TU6o</sub> &#8221; frameborder=&#8221;0&#8221; webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/jbV5dGvJWyo " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cambiando el paradigma de la educación]]></title>
