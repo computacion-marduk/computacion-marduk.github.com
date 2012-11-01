@@ -11,5 +11,3 @@ categories:
 {% youtube nb9pqqHbPy4 %}
 
 {% youtube jbV5dGvJWyo %}
-
-{% youtube _DEmtz7TU6o %}
