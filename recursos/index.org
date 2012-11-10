@@ -66,7 +66,9 @@ footer: true
 
 Configuración
 
-Menú Opciones: Configurar TeXstudio: General: Apariencia: Estilo: Cleanlooks
+Menú Opciones: Configurar TeXstudio: General: Apariencia: Estilo:
+Cleanlooks
+
 Menú Opciones: Configurar TeXstudio: Build: pdflatex
 
 [[http://tezcatl.fciencias.unam.mx/tex-archive/info/latexcheat/latexcheat-esmx/latexsheet-esmx.pdf][Acordeón para LaTeX 2]]
