@@ -1,0 +1,17 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Un poco de magnetismo"
+date: 2012-11-10 14:43
+comments: true
+categories: 
+---
+#+END_HTML
+
+Frenado magnético
+
+{% youtube E97CYWlALEs %}
+
+Ferrofluidos
+
+{% youtube 1EuyZ5Lml4k %}

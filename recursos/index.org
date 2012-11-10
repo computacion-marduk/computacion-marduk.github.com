@@ -42,6 +42,10 @@ footer: true
 
 [[http://python.org.ar/pyar/AprendiendoPython][Aprendiendo Python]]
 
+* VPython
+
+[[http://www.vpython.org/][Página principal de VPython]]
+
 * Octave ([[https://github.com/computacion-marduk/computacion-marduk.github.com/tree/master/recursos/Codigos/Octave][Programas de clase]])
 
 [[http://iimyo.forja.rediris.es/][Matemáticas en Ingeniería con Matlab y Octave]]
@@ -52,6 +56,29 @@ footer: true
 
 [[file:octave_python.pdf][Equivalencia de comandos de Octave y Python]]
 
+* LaTeX
+
+[[http://www.tec-digital.itcr.ac.cr/revistamatematica/Libros/index.htm][http://www.tec-digital.itcr.ac.cr/revistamatematica/Libros/LATEX/images/latex2012.png]]
+
+[[http://en.wikibooks.org/wiki/LaTeX/][LaTeX - Wikibooks]]
+
+[[http://texstudio.sourceforge.net/][TeXstudio]] --Editor con previsualización de ecuaciones, tablas y gráficos
+
+Configuración
+
+Menú Opciones: Configurar TeXstudio: General: Apariencia: Estilo: Cleanlooks
+Menú Opciones: Configurar TeXstudio: Build: pdflatex
+
+[[http://tezcatl.fciencias.unam.mx/tex-archive/info/latexcheat/latexcheat-esmx/latexsheet-esmx.pdf][Acordeón para LaTeX 2]]
+
+[[http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf][Símbolos matemáticos]]
+
+[[https://launchpad.net/equalx][EqualX]] --Editor de ecuaciones, que se pueden pegar en un correo en GMail.
+
+[[http://alexeev.org/gmailtex.html][GmailTeX]] --Complemento para utilizar ecuaciones en el correo y las charlas!
+
+[[http://www.texample.net/][TeXample.net]] --Amplios recursos para usuarios de TeX
+
 * COMMENT
 ** Línea de comandos
 #+begin_comment 
@@ -60,11 +87,6 @@ Libro de Schotts
 commandlinefu
 http://www.ee.surrey.ac.uk/Teaching/Unix/
 http://linuxcommand.org/
-#+end_comment
-** VPython
-#+begin_comment
-Manual
-Chabay, Sherwood
 #+end_comment
 ** Gnuplot
 #+begin_comment
@@ -76,25 +98,20 @@ not so faq
 ** Maxima
 #+begin_comment
 Manual
+Notas de los españoles
 Notas de Woolett
-#+end_comment
-** Octave
-#+begin_comment
-Manual
-Notas de Guillem Borrell
 #+end_comment
 ** LaTeX
 #+begin_comment
-Wikibooks
-Libro de borbon
-Editor en linea
-Editor de ecuaciones en linea
-EqualX
+archivos maestros
 TeX stack exchange
 Crear sus propios paquetes
 texdoc
+** Beamer
+wiki2beamer
 #+end_comment
 ** Qtiplot
 Manual
 ** Tracker
 Manual
+** Geogebra

@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-11-01T12:42:08-06:00</updated>
+  <updated>2012-11-10T15:23:08-06:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Un poco de magnetismo]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/11/10/un-poco-de-magnetismo/"/>
+    <updated>2012-11-10T14:43:00-06:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/11/10/un-poco-de-magnetismo</id>
+    <content type="html"><![CDATA[<p>
+Frenado magnético
+</p>
+
+
+<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/E97CYWlALEs " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+
+<p>
+Ferrofluidos
+</p>
+
+
+<p>
+<iframe width="" height="" src="http://www.youtube.com/embed/1EuyZ5Lml4k " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dispositivos móviles y ergonomía]]></title>
