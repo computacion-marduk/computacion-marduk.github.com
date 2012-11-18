@@ -16,6 +16,11 @@ footer: true
 
 [[http://math.ucr.edu/home/baez/][John Baez]]
 
+[[http://www.hep.princeton.edu/~mcdonald/examples/][Physics Examples - Kirk McDonald]]
+
+[[http://www.kurzweilai.net/][Kurzweil - Accelerating Intelligence]] (Suscríbanse!)
+
+
 * Artículos
 Para tener acceso al texto completo obtén una cuenta en [[http://dgb.unam.mx/index.php/solicita-tu-cuenta][BiDi UNAM]]
 
