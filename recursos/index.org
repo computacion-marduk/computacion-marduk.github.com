@@ -81,6 +81,24 @@ Menú Opciones: Configurar TeXstudio: Build: pdflatex
 
 [[http://www.texample.net/][TeXample.net]] --Amplios recursos para usuarios de TeX
 
+* Maxima
+
+[[file:maxima_card_es.pdf][Guía rápida de Maxima]]
+
+[[http://riotorto.users.sourceforge.net/maxima/max.pdf][Primeros pasos en Maxima]]
+
+[[http://galia.fc.uaslp.mx/~jvallejo/ManualMaxima.pdf][Cálculo diferencial con Maxima]]
+
+[[http://euler.us.es/~renato/clases/maxima/manualesPDF/maxima-manual-UGR.pdf][Prácticas de ordenador con wxMaxima]]
+
+[[http://maxima.sourceforge.net/docs/manual/es/maxima.pdf][Manual de Maxima]]
+
+[[http://www.csulb.edu/~woollett/][Maxima by example]]
+
+[[http://www.neng.usu.edu/cee/faculty/gurro/Maxima.html][MAXIMA: Science and Engineering Applications]]
+
+[[http://maxima.sourceforge.net/documentation.html][Tutoriales en inglés, español, etc]]
+
 * COMMENT
 ** Línea de comandos
 #+begin_comment 
