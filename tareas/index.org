@@ -17,3 +17,5 @@ footer: true
 [[file:tarea4.tar.gz][Tarea 4]] Para el 14 de octubre de 2012 por correo electrónico a Iker
 
 [[file:tarea5.pdf][Tarea 5]] para el 14 de noviembre de 2012 por correo electrónico a Iker
+
+[[file:tarea6.pdf][Tarea 6]] para el 2 de diciembre de 2012 por correo electrónico a Iker
