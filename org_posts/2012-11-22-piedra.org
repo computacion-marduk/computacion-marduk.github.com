@@ -1,0 +1,11 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "¿Piedra, papel o tijeras?"
+date: 2012-11-22 16:22
+comments: true
+categories: 
+---
+#+END_HTML
+
+{% youtube 3nxjjztQKtY %}
