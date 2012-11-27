@@ -4,7 +4,7 @@
   <title><![CDATA[Curso de Computación]]></title>
   <link href="http://computacion-marduk.github.com/atom.xml" rel="self"/>
   <link href="http://computacion-marduk.github.com/"/>
-  <updated>2012-11-22T16:23:07-06:00</updated>
+  <updated>2012-11-26T21:01:15-06:00</updated>
   <id>http://computacion-marduk.github.com/</id>
   <author>
     <name><![CDATA[Marduk Bolaños]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[¡A jugar... y aprender!]]></title>
+    <link href="http://computacion-marduk.github.com/blog/2012/11/26/a-jugar-dot-dot-dot-y-aprender/"/>
+    <updated>2012-11-26T20:52:00-06:00</updated>
+    <id>http://computacion-marduk.github.com/blog/2012/11/26/a-jugar-dot-dot-dot-y-aprender</id>
+    <content type="html"><![CDATA[<p>
+<img src="http://slingshot.wikispot.org/Front_Page?sendfile=true&amp;file=screenshot.png"  alt="http://slingshot.wikispot.org/Front_Page?sendfile=true&amp;file=screenshot.png" />
+</p>
+
+
+<p>
+En el Centro de Software de Ubuntu instalen Slingshot. Es un juego que
+modela un tipo de trayectoria utilizado para enviar sondas a los planetas del
+Sistema Solar. En <a href="http://en.wikipedia.org/wiki/Gravitational_slingshot">Wikipedia</a> explican más. ADVERTENCIA: Es un juego muy
+adictivo.
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[¿Piedra, papel o tijeras?]]></title>

@@ -1,0 +1,16 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "¡A jugar... y aprender!"
+date: 2012-11-26 20:52
+comments: true
+categories: 
+---
+#+END_HTML
+
+[[http://slingshot.wikispot.org/Front_Page?sendfile=true&file=screenshot.png]]
+
+En el Centro de Software de Ubuntu instalen Slingshot. Es un juego que
+modela un tipo de trayectoria utilizado para enviar sondas a los planetas del
+Sistema Solar. En [[http://en.wikipedia.org/wiki/Gravitational_slingshot][Wikipedia]] explican más. ADVERTENCIA: Es un juego muy
+adictivo.
