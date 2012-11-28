@@ -81,7 +81,7 @@ Menú Opciones: Configurar TeXstudio: Build: pdflatex
 
 [[http://www.texample.net/][TeXample.net]] --Amplios recursos para usuarios de TeX
 
-* Maxima
+* Maxima ([[https://github.com/computacion-marduk/computacion-marduk.github.com/tree/master/recursos/Codigos/Maxima][Programas de clase]])
 
 [[file:maxima_card_es.pdf][Guía rápida de Maxima]]
 

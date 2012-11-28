@@ -1,0 +1,34 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 12.09.0 ] */
+
+/* [wxMaxima: input   start ] */
+load(draw)$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+:lisp (defun $add_zeros (num) (format nil "~10,'0d" num));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+system("mkdir anim")$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+for n: 1 thru 16 do
+draw2d(
+terminal = png,
+file_name = concat("anim/cuadro", add_zeros(n)),
+color = red,
+explicit(taylor(sin(x),x,0,n),x,-7,7),
+color = blue,
+explicit(sin(x),x,-7,7),
+yrange=[-1,1]
+);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+system("animate -delay 60 anim/*.png");
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
