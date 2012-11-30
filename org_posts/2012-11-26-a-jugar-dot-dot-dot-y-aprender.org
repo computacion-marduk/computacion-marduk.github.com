@@ -8,7 +8,7 @@ categories:
 ---
 #+END_HTML
 
-http://slingshot.wikispot.org/Front_Page?action=Files&do=view&target=screenshot.png
+http://slingshot.wikispot.org/Front_Page?sendfile=true&file=screenshot.png
 
 En el Centro de Software de Ubuntu instalen Slingshot. Es un juego que
 modela un tipo de trayectoria utilizado para enviar sondas a los planetas del
