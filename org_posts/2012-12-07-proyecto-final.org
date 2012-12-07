@@ -1,0 +1,12 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "Proyecto final"
+date: 2012-11-07 00:36
+comments: true
+categories: 
+---
+#+END_HTML
+
+[[proyecto.pdf][Aquí]] está el proyecto final. Son dos ejercicios para resolver en
+equipos de dos integrantes. ¡Mucha suerte!
