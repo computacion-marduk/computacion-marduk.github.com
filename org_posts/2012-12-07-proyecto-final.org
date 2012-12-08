@@ -8,5 +8,8 @@ categories:
 ---
 #+END_HTML
 
+Última actualización: 8 de diciembre. Les pido disculpas por las
+recientes modificaciones.
+
 [[proyecto.pdf][Aquí]] está el proyecto final. Son dos ejercicios para resolver en
 equipos de dos integrantes. ¡Mucha suerte!
