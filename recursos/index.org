@@ -30,7 +30,7 @@ footer: true
 
 [[http://www.swaroopch.org/notes/Python_es-ar:Tabla_de_Contenidos][Un byte de Python]]
 
-[[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf][Aprenda a pensar como un programador (con Python)]]
+[[http://arawako.com/wp-content/uploads/2010/03/thinkCSpy.es_.pdf][Aprenda a pensar como un programador (con Python)]]
 
 [[http://www.uji.es/bin/publ/edicions/ippython.pdf][Introducción a la programación con Python]]
 
